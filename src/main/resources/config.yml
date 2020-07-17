@@ -1,0 +1,5 @@
+all-worlds-gamerules:
+  ANNOUNCE_ADVANCEMENTS: false
+
+disabled-worlds:
+  - 'example_world'

@@ -1,0 +1,5 @@
+name: AutoGameRule
+version: ${project.version}
+main: com.iroselle.autogamerule.bukkit.AutoGameRule
+depend:
+  - KotlinAPI
